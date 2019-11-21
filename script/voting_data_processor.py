@@ -47,13 +47,13 @@ def votesCombination(inputFile,outputFile,state):
     print('Remove other parties done')
     return
 
-rawData = 'data/district_overall_2018.csv'
-stateData = 'data/congressional_districts_voting.csv'
-state = 'Oregon'
-processedData = 'processed_data/congressional_districts_voting_processed.csv'
+RAWDATA = '../data/district_overall_2018.csv'
+STATEDATA = '../data/congressional_districts_voting.csv'
+STATE = 'Oregon'
+PROCESSEDDATA = '../processed_data/congressional_districts_voting_processed.csv'
 
-getStates(rawData,stateData,state)
-columnFilter(stateData,stateData)
-votesCombination(stateData,processedData,state)
+getStates(RAWDATA,STATEDATA,STATE)
+columnFilter(STATEDATA,STATEDATA)
+votesCombination(STATEDATA,PROCESSEDDATA,STATE)
 
 print('Processed Done')

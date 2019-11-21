@@ -42,8 +42,8 @@ def processData(file):
     new_f.to_csv(file, index=False)
     return
 
-RAWDATA = 'data/nhgis0009_ds238_2018_cd116th.csv'
-PROCESSEDDATA = 'processed_data/congressional_districts_demographic.csv'
+RAWDATA = '../data/nhgis0009_ds238_2018_cd116th.csv'
+PROCESSEDDATA = '../processed_data/congressional_districts_demographic.csv'
 getState(RAWDATA,PROCESSEDDATA)
 processData(PROCESSEDDATA)
 

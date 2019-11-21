@@ -42,7 +42,7 @@ def insertDistrictVotes(file):
                     mycursor.execute(sql, val)
         return
 
-congressionalGeoJson = 'processed_data/Oregon_congressional_geo_processed.json'
-insertDistrict(congressionalGeoJson)
-insertDistrictVotes(congressionalGeoJson)
+CONGRESSIONALGEOJSON = '../processed_data/Oregon_congressional_geo_processed.json'
+insertDistrict(CONGRESSIONALGEOJSON)
+insertDistrictVotes(CONGRESSIONALGEOJSON)
 mydb.commit()

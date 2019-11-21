@@ -2,10 +2,10 @@ import json
 import csv
 state = {}
 
-DEMOGRAPHICDATA = 'processed_data/congressional_districts_demographic.csv'
-VOTINGDATA = 'processed_data/congressional_districts_voting_processed.csv'
-GEOJSON = 'processed_data/Oregon_congressional_geo.json'
-PROCESSEDDATA = 'processed_data/Oregon_congressional_geo_processed.json'
+DEMOGRAPHICDATA = '../processed_data/congressional_districts_demographic.csv'
+VOTINGDATA = '../processed_data/congressional_districts_voting_processed.csv'
+GEOJSON = '../processed_data/Oregon_congressional_geo.json'
+PROCESSEDDATA = '../processed_data/Oregon_congressional_geo_processed.json'
 STATE = 'Oregon'
 
 with open(DEMOGRAPHICDATA,'rb') as inp:
