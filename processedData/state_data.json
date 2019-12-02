@@ -1,0 +1,53 @@
+{
+    "Illinois": {
+        "demo": {
+            "Total": 12741080,
+            "White": 9135145,
+            "Black or African American": 1793079,
+            "Asian": 717938,
+            "Native Hawaiian and Other Pacific Islander": 5317,
+            "Two or more races": 340977,
+            "American Indian and Alaska Native": 35846,
+            "Some Other Race": 712778
+        },
+        "vote": {
+            "democratic": 2757540,
+            "republican": 1754449,
+            "others": 27715
+        }
+    },
+    "Ohio": {
+        "demo": {
+            "Total": 11689442,
+            "White": 9470940,
+            "Black or African American": 1446306,
+            "Asian": 271762,
+            "Native Hawaiian and Other Pacific Islander": 4228,
+            "Two or more races": 358398,
+            "American Indian and Alaska Native": 25672,
+            "Some Other Race": 112136
+        },
+        "vote": {
+            "republican": 2291333,
+            "democratic": 2082684,
+            "others": 32341
+        }
+    },
+    "Oregon": {
+        "demo": {
+            "Total": 4190713,
+            "White": 3514983,
+            "Black or African American": 82046,
+            "Asian": 190680,
+            "Native Hawaiian and Other Pacific Islander": 18758,
+            "Two or more races": 197222,
+            "American Indian and Alaska Native": 49051,
+            "Some Other Race": 137973
+        },
+        "vote": {
+            "democratic": 1061412,
+            "republican": 702531,
+            "others": 83703
+        }
+    }
+}

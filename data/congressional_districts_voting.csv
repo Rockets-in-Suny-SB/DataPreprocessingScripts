@@ -1,114 +1,114 @@
-state,district,party,candidatevotes
-Illinois,District 1,democrat,189560
-Illinois,District 1,republican,50960
-Illinois,District 1,independent,17365
-Illinois,District 1,,0
-Illinois,District 10,democrat,156540
-Illinois,District 10,republican,82124
-Illinois,District 11,democrat,145407
-Illinois,District 11,republican,82358
-Illinois,District 12,democrat,118724
-Illinois,District 12,republican,134884
-Illinois,District 12,green,7935
-Illinois,District 13,democrat,134458
-Illinois,District 13,republican,136516
-Illinois,District 13,,7
-Illinois,District 14,democrat,156035
-Illinois,District 14,republican,141164
-Illinois,District 15,republican,181294
-Illinois,District 15,democrat,74309
-Illinois,District 15,,5
-Illinois,District 16,republican,151254
-Illinois,District 16,democrat,104569
-Illinois,District 16,,2
-Illinois,District 17,democrat,142659
-Illinois,District 17,republican,87090
-Illinois,District 18,republican,195927
-Illinois,District 18,democrat,95486
-Illinois,District 2,republican,44567
-Illinois,District 2,democrat,190684
-Illinois,District 3,republican,57885
-Illinois,District 3,democrat,163053
-Illinois,District 3,,2396
-Illinois,District 4,democrat,143895
-Illinois,District 4,republican,22294
-Illinois,District 5,democrat,213992
-Illinois,District 5,republican,65134
-Illinois,District 5,,5
-Illinois,District 6,republican,146445
-Illinois,District 6,democrat,169001
-Illinois,District 6,,0
-Illinois,District 7,republican,30497
-Illinois,District 7,democrat,215746
-Illinois,District 8,republican,67073
-Illinois,District 8,democrat,130054
-Illinois,District 9,democrat,213368
-Illinois,District 9,republican,76983
-Ohio,District 1,republican,154409
-Ohio,District 1,,5
-Ohio,District 1,libertarian,5339
-Ohio,District 1,democrat,141118
-Ohio,District 2,,8
-Ohio,District 2,green,3606
-Ohio,District 2,democrat,119333
-Ohio,District 2,republican,166714
-Ohio,District 3,democrat,181575
-Ohio,District 3,republican,65040
-Ohio,District 3,,62
-Ohio,District 4,democrat,89412
-Ohio,District 4,republican,167993
-Ohio,District 5,democrat,99655
-Ohio,District 5,libertarian,7393
-Ohio,District 5,republican,176569
-Ohio,District 6,republican,172774
-Ohio,District 6,democrat,76716
-Ohio,District 7,republican,153117
-Ohio,District 7,democrat,107536
-Ohio,District 8,republican,173852
-Ohio,District 8,democrat,87281
-Ohio,District 9,democrat,157219
-Ohio,District 9,republican,74670
-Ohio,District 9,,48
-Ohio,District 10,democrat,118785
-Ohio,District 10,libertarian,5387
-Ohio,District 10,republican,157554
-Ohio,District 11,,36
-Ohio,District 11,democrat,206138
-Ohio,District 11,republican,44486
-Ohio,District 12,republican,175677
-Ohio,District 12,,1
-Ohio,District 12,green,4718
-Ohio,District 12,democrat,161251
-Ohio,District 13,republican,98047
-Ohio,District 13,democrat,153323
-Ohio,District 14,republican,169809
-Ohio,District 14,democrat,137549
-Ohio,District 15,libertarian,5738
-Ohio,District 15,democrat,116112
-Ohio,District 15,republican,170593
-Ohio,District 16,republican,170029
-Ohio,District 16,democrat,129681
-Oregon,District 1,libertarian,15121
-Oregon,District 1,democrat,231198
-Oregon,District 1,republican,116446
-Oregon,District 1,,484
-Oregon,District 2,independent,15536
-Oregon,District 2,republican,207597
-Oregon,District 2,democrat,145298
-Oregon,District 2,,278
-Oregon,District 3,independent,21352
-Oregon,District 3,democrat,279019
-Oregon,District 3,libertarian,5767
-Oregon,District 3,constitution,1487
-Oregon,District 3,republican,76187
-Oregon,District 3,,514
-Oregon,District 4,republican,152414
-Oregon,District 4,libertarian,5370
-Oregon,District 4,pacific green,5956
-Oregon,District 4,democrat,208710
-Oregon,District 4,,443
-Oregon,District 5,republican,149887
-Oregon,District 5,libertarian,6054
-Oregon,District 5,pacific green,4802
-Oregon,District 5,democrat,197187
-Oregon,District 5,,539
+state,district,party,candidatevotes,candidate
+Illinois,1,democrat,189560,Bobby L. Rush
+Illinois,1,republican,50960,"Jimmy Lee Tillman, Ii"
+Illinois,1,independent,17365,Thomas Rudbeck
+Illinois,1,,0,
+Illinois,10,democrat,156540,Brad Schneider
+Illinois,10,republican,82124,Douglas R. Bennett
+Illinois,11,democrat,145407,Bill Foster
+Illinois,11,republican,82358,Nick Stella
+Illinois,12,democrat,118724,Brendan Kelly
+Illinois,12,republican,134884,Mike Bost
+Illinois,12,green,7935,Randy Auxier
+Illinois,13,democrat,134458,Betsy Dirksen Londrigan
+Illinois,13,republican,136516,Rodney Davis
+Illinois,13,,7,
+Illinois,14,democrat,156035,Lauren Underwood
+Illinois,14,republican,141164,Randall M. \Randy\ Hultgren
+Illinois,15,republican,181294,John M. Shimkus
+Illinois,15,democrat,74309,Kevin Gaither
+Illinois,15,,5,
+Illinois,16,republican,151254,Adam Kinzinger
+Illinois,16,democrat,104569,Sara Dady
+Illinois,16,,2,
+Illinois,17,democrat,142659,Cheri Bustos
+Illinois,17,republican,87090,William W. \Bill\ Fawell
+Illinois,18,republican,195927,Darin Lahood
+Illinois,18,democrat,95486,Junius Rodriguez
+Illinois,2,republican,44567,David Merkle
+Illinois,2,democrat,190684,Robin Kelly
+Illinois,3,republican,57885,Arthur J. Jones
+Illinois,3,democrat,163053,Daniel William Lipinski
+Illinois,3,,2396,
+Illinois,4,democrat,143895,Jesus \Chuy\ Garcia
+Illinois,4,republican,22294,Mark Wayne Lorch
+Illinois,5,democrat,213992,Mike Quigley
+Illinois,5,republican,65134,Tom Hanson
+Illinois,5,,5,
+Illinois,6,republican,146445,Peter J. Roskam
+Illinois,6,democrat,169001,Sean Casten
+Illinois,6,,0,
+Illinois,7,republican,30497,Craig Cameron
+Illinois,7,democrat,215746,Danny K. Davis
+Illinois,8,republican,67073,Jitendra \Jd\ Diganvker
+Illinois,8,democrat,130054,Raja Krishnamoorthi
+Illinois,9,democrat,213368,Janice D. Schakowsky
+Illinois,9,republican,76983,John D. Elleson
+Ohio,1,republican,154409,Steve Chabot
+Ohio,1,,5,
+Ohio,1,libertarian,5339,Dirk Kubala
+Ohio,1,democrat,141118,Aftab Pureval
+Ohio,2,,8,
+Ohio,2,green,3606,James J. Condit Jr
+Ohio,2,democrat,119333,Jill Schiller
+Ohio,2,republican,166714,Brad Wenstrup
+Ohio,3,democrat,181575,Joyce Beatty
+Ohio,3,republican,65040,Jim Burgess
+Ohio,3,,62,
+Ohio,4,democrat,89412,Janet Garrett
+Ohio,4,republican,167993,Jim Jordan
+Ohio,5,democrat,99655,J. Michael Galbraith
+Ohio,5,libertarian,7393,Don Kissick
+Ohio,5,republican,176569,Bob Latta
+Ohio,6,republican,172774,Bill Johnson
+Ohio,6,democrat,76716,Shawna Roberts
+Ohio,7,republican,153117,Bob Gibbs
+Ohio,7,democrat,107536,Ken Harbaugh
+Ohio,8,republican,173852,Warren Davidson
+Ohio,8,democrat,87281,Vanessa Enoch
+Ohio,9,democrat,157219,Marcy Kaptur
+Ohio,9,republican,74670,Steven W. Kraus
+Ohio,9,,48,
+Ohio,10,democrat,118785,Theresa A. Gasper
+Ohio,10,libertarian,5387,David A. Harlow
+Ohio,10,republican,157554,Mike Turner
+Ohio,11,,36,
+Ohio,11,democrat,206138,Marcia L. Fudge
+Ohio,11,republican,44486,Beverly A. Goldstein
+Ohio,12,republican,175677,Troy Balderson
+Ohio,12,,1,
+Ohio,12,green,4718,Joe Manchik
+Ohio,12,democrat,161251,Danny O'Connor
+Ohio,13,republican,98047,Chris DePizzo
+Ohio,13,democrat,153323,Tim Ryan
+Ohio,14,republican,169809,David P. Joyce
+Ohio,14,democrat,137549,Betsy Rader
+Ohio,15,libertarian,5738,Johnathan Miller
+Ohio,15,democrat,116112,Rick Neal
+Ohio,15,republican,170593,Steve Stivers
+Ohio,16,republican,170029,Anthony Gonzalez
+Ohio,16,democrat,129681,Susan Moran Palmer
+Oregon,1,libertarian,15121,Drew A Layda
+Oregon,1,democrat,231198,Suzanne Bonamici
+Oregon,1,republican,116446,John Verbeek
+Oregon,1,,484,
+Oregon,2,independent,15536,Mark R Roberts
+Oregon,2,republican,207597,Greg Walden
+Oregon,2,democrat,145298,Jamie McLeod-Skinner
+Oregon,2,,278,
+Oregon,3,independent,21352,Marc W Koller
+Oregon,3,democrat,279019,Earl Blumenauer
+Oregon,3,libertarian,5767,Gary Lyndon Dye
+Oregon,3,constitution,1487,Michael Marsh
+Oregon,3,republican,76187,Tom Harrison
+Oregon,3,,514,
+Oregon,4,republican,152414,Art Robinson
+Oregon,4,libertarian,5370,Richard R Jacobson
+Oregon,4,pacific green,5956,Mike Beilstein
+Oregon,4,democrat,208710,Peter DeFazio
+Oregon,4,,443,
+Oregon,5,republican,149887,Mark Callahan
+Oregon,5,libertarian,6054,Dan Souza
+Oregon,5,pacific green,4802,Marvin Sandnes
+Oregon,5,democrat,197187,Kurt Schrader
+Oregon,5,,539,
