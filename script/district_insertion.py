@@ -24,28 +24,28 @@ mycursor = mydb.cursor()
 inp = open('../processedData/districts_data.json', 'r')
 loaded_json = json.load(inp)
 
-state = 'Ohio'
+state = 'Oregon'
 for district in loaded_json[state]:
     district_id = state_ids[state] * 1000 + int(district)
     district_name = "Congressional District " + str(district)
     district = loaded_json[state][district]
-    population = int(district['demo']['Total'])
+    population = int(district['demographic']['Total'])
     sql = "INSERT INTO district (district_id, geo_json, name, population) VALUES (%s, %s, %s, %s)"
     val = (district_id, '', district_name, population)
     mycursor.execute(sql, val)
-    for group in district['demo']:
+    for group in district['demographic']:
         if group != "Total":
             sql = "INSERT INTO district_minority_group_population (district_id, minority_group_population, minority_group_population_key) VALUES (%s, %s, %s)"
-            val = (district_id, district['demo'][group], demographic[group])
+            val = (district_id, district['demographic'][group], demographic[group])
             mycursor.execute(sql, val)
-    for party in district['vote']:
+    for party in district['vote2018']:
         sql = "INSERT INTO district_party_votes (district_id, party_votes, party_votes_key) VALUES (%s, %s, %s)"
-        val = (district_id, district['vote'][party]['Votes'], party_id[party])
+        val = (district_id, district['vote2018'][party]['Votes'], party_id[party])
         mycursor.execute(sql, val)
-    sql = "INSERT INTO state_districts (state_name, state_status, districts_district_id) VALUES (%s, %s, %s)"
-    val = (state_id[state], 0, district_id)
+    sql = "INSERT INTO state_districts (state_name, state_status, districts_district_id,districts_key) VALUES (%s, %s, %s,%s)"
+    val = (state_id[state], 0, district_id,district_id)
     mycursor.execute(sql, val)
-    val = (state_id[state], 1, district_id)
+    val = (state_id[state], 1, district_id,district_id)
     mycursor.execute(sql, val)
 
 mydb.commit()

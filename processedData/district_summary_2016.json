@@ -1,0 +1,206 @@
+{
+    "Illinois": [
+        {
+            "id": "1",
+            "name": "Bobby L. Rush",
+            "party": "Democratic"
+        },
+        {
+            "id": "2",
+            "name": "Robin L. Kelly",
+            "party": "Democratic"
+        },
+        {
+            "id": "3",
+            "name": "Daniel Lipinski",
+            "party": "Democratic"
+        },
+        {
+            "id": "4",
+            "name": "Luis V. Guti_rrez",
+            "party": "Democratic"
+        },
+        {
+            "id": "5",
+            "name": "Mike Quigley",
+            "party": "Democratic"
+        },
+        {
+            "id": "6",
+            "name": "Peter J. Roskam",
+            "party": "Republican"
+        },
+        {
+            "id": "7",
+            "name": "Danny K. Davis",
+            "party": "Democratic"
+        },
+        {
+            "id": "8",
+            "name": "Raja Krishnamoorthi",
+            "party": "Democratic"
+        },
+        {
+            "id": "9",
+            "name": "Janice D. Schakowsky",
+            "party": "Democratic"
+        },
+        {
+            "id": "10",
+            "name": "Brad Schneider",
+            "party": "Democratic"
+        },
+        {
+            "id": "11",
+            "name": "Bill Foster",
+            "party": "Democratic"
+        },
+        {
+            "id": "12",
+            "name": "Mike Bost",
+            "party": "Republican"
+        },
+        {
+            "id": "13",
+            "name": "Rodney Davis",
+            "party": "Republican"
+        },
+        {
+            "id": "14",
+            "name": "Randy Hultgren",
+            "party": "Republican"
+        },
+        {
+            "id": "15",
+            "name": "John Shimkus",
+            "party": "Republican"
+        },
+        {
+            "id": "16",
+            "name": "Adam Kinzinger",
+            "party": "Republican"
+        },
+        {
+            "id": "17",
+            "name": "Cheri Bustos",
+            "party": "Democratic"
+        },
+        {
+            "id": "18",
+            "name": "Darin LaHood",
+            "party": "Republican"
+        }
+    ],
+    "Ohio": [
+        {
+            "id": "1",
+            "name": "Steve Chabot",
+            "party": "Republican"
+        },
+        {
+            "id": "2",
+            "name": "Brad R. Wenstrup",
+            "party": "Republican"
+        },
+        {
+            "id": "3",
+            "name": "Joyce Beatty",
+            "party": "Democratic"
+        },
+        {
+            "id": "4",
+            "name": "Jim Jordan",
+            "party": "Republican"
+        },
+        {
+            "id": "5",
+            "name": "Robert E. Latta",
+            "party": "Republican"
+        },
+        {
+            "id": "6",
+            "name": "Bill Johnson",
+            "party": "Republican"
+        },
+        {
+            "id": "7",
+            "name": "Bob Gibbs",
+            "party": "Republican"
+        },
+        {
+            "id": "8",
+            "name": "Warren Davidson",
+            "party": "Republican"
+        },
+        {
+            "id": "9",
+            "name": "Marcy Kaptur",
+            "party": "Democratic"
+        },
+        {
+            "id": "10",
+            "name": "Michael R. Turner",
+            "party": "Republican"
+        },
+        {
+            "id": "11",
+            "name": "Marcia L. Fudge",
+            "party": "Democratic"
+        },
+        {
+            "id": "12",
+            "name": "Patrick J. Tiberi",
+            "party": "Republican"
+        },
+        {
+            "id": "13",
+            "name": "Tim Ryan",
+            "party": "Democratic"
+        },
+        {
+            "id": "14",
+            "name": "David P. Joyce",
+            "party": "Republican"
+        },
+        {
+            "id": "15",
+            "name": "Steve Stivers",
+            "party": "Republican"
+        },
+        {
+            "id": "16",
+            "name": "James B. Renacci",
+            "party": "Republican"
+        }
+    ],
+    "Oregon": [
+        {
+            "id": "1",
+            "name": "Suzanne Bonamici",
+            "party": "Democratic"
+        },
+        {
+            "id": "2",
+            "name": "Greg Walden",
+            "party": "Republican"
+        },
+        {
+            "id": "3",
+            "name": "Earl Blumenauer",
+            "party": "Democratic"
+        },
+        {
+            "id": "4",
+            "name": "Peter A. DeFazio",
+            "party": "Democratic"
+        },
+        {
+            "id": "5",
+            "name": "Kurt Schrader",
+            "party": "Democratic"
+        }
+    ],
+    "Illinois_Summary": "Republican Congressional Representatives: 7<br/>Republican Representatives Percentage: 38%<br/>Rebpulican Voting Percentage: 44%<br/>Democratic Congressional Representatives: 11<br/>Democratic Representatives Percentage: 61%<br/>Democratic Voting Percentage: 55%<br/>",
+    "Ohio_Summary": "Republican Congressional Representatives: 12<br/>Republican Representatives Percentage: 75%<br/>Rebpulican Voting Percentage: 66%<br/>Democratic Congressional Representatives: 4<br/>Democratic Representatives Percentage: 25%<br/>Democratic Voting Percentage: 33%<br/>",
+    "Oregon_Summary": "Republican Congressional Representatives: 1<br/>Republican Representatives Percentage: 20%<br/>Rebpulican Voting Percentage: 31%<br/>Democratic Congressional Representatives: 4<br/>Democratic Representatives Percentage: 80%<br/>Democratic Voting Percentage: 68%<br/>"
+}

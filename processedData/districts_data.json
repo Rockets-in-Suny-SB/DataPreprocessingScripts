@@ -1,7 +1,7 @@
 {
     "Illinois": {
         "1": {
-            "demo": {
+            "demographic": {
                 "Total": "706550",
                 "White": "303613",
                 "Black or African American": "354097",
@@ -11,23 +11,37 @@
                 "American Indian and Alaska Native": "301",
                 "Some Other Race": "19255"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "189560",
                     "Candidate": "Bobby L. Rush"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "50960",
                     "Candidate": "Jimmy Lee Tillman, Ii"
                 },
-                "others": {
+                "Others": {
                     "Votes": "17365",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "234037",
+                    "Candidate": "Bobby L. Rush"
+                },
+                "Republican": {
+                    "Votes": "81817",
+                    "Candidate": "August \"\"O'Neill\"\" Deuser"
+                },
+                "Others": {
+                    "Votes": "8",
                     "Candidate": ""
                 }
             }
         },
         "2": {
-            "demo": {
+            "demographic": {
                 "Total": "694459",
                 "White": "253856",
                 "Black or African American": "393578",
@@ -37,19 +51,29 @@
                 "American Indian and Alaska Native": "1139",
                 "Some Other Race": "25713"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "44567",
                     "Candidate": "David Merkle"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "190684",
                     "Candidate": "Robin Kelly"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "59471",
+                    "Candidate": "John F. Morrow"
+                },
+                "Democratic": {
+                    "Votes": "235051",
+                    "Candidate": "Robin L. Kelly"
                 }
             }
         },
         "3": {
-            "demo": {
+            "demographic": {
                 "Total": "704050",
                 "White": "554906",
                 "Black or African American": "35460",
@@ -59,23 +83,33 @@
                 "American Indian and Alaska Native": "3459",
                 "Some Other Race": "63289"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "57885",
                     "Candidate": "Arthur J. Jones"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "163053",
                     "Candidate": "Daniel William Lipinski"
                 },
-                "others": {
+                "Others": {
                     "Votes": "2396",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "225320",
+                    "Candidate": "Daniel Lipinski"
+                },
+                "Others": {
+                    "Votes": "91",
                     "Candidate": ""
                 }
             }
         },
         "4": {
-            "demo": {
+            "demographic": {
                 "Total": "702062",
                 "White": "420391",
                 "Black or African American": "28977",
@@ -85,19 +119,25 @@
                 "American Indian and Alaska Native": "3538",
                 "Some Other Race": "204348"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "143895",
                     "Candidate": "Jesus \\Chuy\\ Garcia"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "22294",
                     "Candidate": "Mark Wayne Lorch"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "171297",
+                    "Candidate": "Luis V. Guti_rrez"
                 }
             }
         },
         "5": {
-            "demo": {
+            "demographic": {
                 "Total": "743699",
                 "White": "594110",
                 "Black or African American": "22900",
@@ -107,23 +147,37 @@
                 "American Indian and Alaska Native": "1120",
                 "Some Other Race": "35743"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "213992",
                     "Candidate": "Mike Quigley"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "65134",
                     "Candidate": "Tom Hanson"
                 },
-                "others": {
+                "Others": {
                     "Votes": "5",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "86222",
+                    "Candidate": "Vince Kolber"
+                },
+                "Democratic": {
+                    "Votes": "212842",
+                    "Candidate": "Mike Quigley"
+                },
+                "Others": {
+                    "Votes": "14660",
                     "Candidate": ""
                 }
             }
         },
         "6": {
-            "demo": {
+            "demographic": {
                 "Total": "730345",
                 "White": "600898",
                 "Black or African American": "17193",
@@ -133,23 +187,33 @@
                 "American Indian and Alaska Native": "955",
                 "Some Other Race": "18100"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "146445",
                     "Candidate": "Peter J. Roskam"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "169001",
                     "Candidate": "Sean Casten"
                 },
-                "others": {
+                "Others": {
                     "Votes": "0",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "208555",
+                    "Candidate": "Peter J. Roskam"
+                },
+                "Democratic": {
+                    "Votes": "143591",
+                    "Candidate": "Amanda Howland"
                 }
             }
         },
         "7": {
-            "demo": {
+            "demographic": {
                 "Total": "707513",
                 "White": "264669",
                 "Black or African American": "323450",
@@ -159,19 +223,29 @@
                 "American Indian and Alaska Native": "1095",
                 "Some Other Race": "48385"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "30497",
                     "Candidate": "Craig Cameron"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "215746",
+                    "Candidate": "Danny K. Davis"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "46882",
+                    "Candidate": "Jeffrey A. Leef"
+                },
+                "Democratic": {
+                    "Votes": "250584",
                     "Candidate": "Danny K. Davis"
                 }
             }
         },
         "8": {
-            "demo": {
+            "demographic": {
                 "Total": "707268",
                 "White": "454580",
                 "Black or African American": "38308",
@@ -181,19 +255,29 @@
                 "American Indian and Alaska Native": "6590",
                 "Some Other Race": "87930"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "67073",
                     "Candidate": "Jitendra \\Jd\\ Diganvker"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "130054",
                     "Candidate": "Raja Krishnamoorthi"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "144954",
+                    "Candidate": "Raja Krishnamoorthi"
+                },
+                "Republican": {
+                    "Votes": "103617",
+                    "Candidate": "Peter \"\"Pete\"\" DiCianni"
                 }
             }
         },
         "9": {
-            "demo": {
+            "demographic": {
                 "Total": "721481",
                 "White": "507446",
                 "Black or African American": "68026",
@@ -203,19 +287,33 @@
                 "American Indian and Alaska Native": "1847",
                 "Some Other Race": "22005"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "213368",
                     "Candidate": "Janice D. Schakowsky"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "76983",
                     "Candidate": "John D. Elleson"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "109550",
+                    "Candidate": "Joan McCarthy Lasonde"
+                },
+                "Democratic": {
+                    "Votes": "217306",
+                    "Candidate": "Janice D. Schakowsky"
+                },
+                "Others": {
+                    "Votes": "92",
+                    "Candidate": ""
                 }
             }
         },
         "10": {
-            "demo": {
+            "demographic": {
                 "Total": "711265",
                 "White": "493441",
                 "Black or African American": "44334",
@@ -225,19 +323,33 @@
                 "American Indian and Alaska Native": "3364",
                 "Some Other Race": "67579"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "156540",
                     "Candidate": "Brad Schneider"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "82124",
                     "Candidate": "Douglas R. Bennett"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "150435",
+                    "Candidate": "Brad Schneider"
+                },
+                "Republican": {
+                    "Votes": "135535",
+                    "Candidate": "Robert J. Dold"
+                },
+                "Others": {
+                    "Votes": "26",
+                    "Candidate": ""
                 }
             }
         },
         "11": {
-            "demo": {
+            "demographic": {
                 "Total": "722584",
                 "White": "496219",
                 "Black or African American": "76321",
@@ -247,19 +359,29 @@
                 "American Indian and Alaska Native": "3335",
                 "Some Other Race": "58508"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "145407",
                     "Candidate": "Bill Foster"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "82358",
                     "Candidate": "Nick Stella"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "108995",
+                    "Candidate": "Tonia Khouri"
+                },
+                "Democratic": {
+                    "Votes": "166578",
+                    "Candidate": "Bill Foster"
                 }
             }
         },
         "12": {
-            "demo": {
+            "demographic": {
                 "Total": "687072",
                 "White": "533450",
                 "Black or African American": "117582",
@@ -269,23 +391,37 @@
                 "American Indian and Alaska Native": "1329",
                 "Some Other Race": "8331"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "118724",
                     "Candidate": "Brendan Kelly"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "134884",
                     "Candidate": "Mike Bost"
                 },
-                "others": {
+                "Others": {
                     "Votes": "7935",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "124246",
+                    "Candidate": "Charles \"\"C. J.\"\" Baricevic"
+                },
+                "Republican": {
+                    "Votes": "169976",
+                    "Candidate": "Mike Bost"
+                },
+                "Others": {
+                    "Votes": "18780",
                     "Candidate": ""
                 }
             }
         },
         "13": {
-            "demo": {
+            "demographic": {
                 "Total": "704211",
                 "White": "570733",
                 "Black or African American": "77759",
@@ -295,23 +431,33 @@
                 "American Indian and Alaska Native": "1086",
                 "Some Other Race": "5983"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "134458",
                     "Candidate": "Betsy Dirksen Londrigan"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "136516",
                     "Candidate": "Rodney Davis"
                 },
-                "others": {
+                "Others": {
                     "Votes": "7",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "126811",
+                    "Candidate": "Mark D. Wicklund"
+                },
+                "Republican": {
+                    "Votes": "187583",
+                    "Candidate": "Rodney Davis"
                 }
             }
         },
         "14": {
-            "demo": {
+            "demographic": {
                 "Total": "742235",
                 "White": "645869",
                 "Black or African American": "28485",
@@ -321,19 +467,29 @@
                 "American Indian and Alaska Native": "1023",
                 "Some Other Race": "15912"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "156035",
                     "Candidate": "Lauren Underwood"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "141164",
                     "Candidate": "Randall M. \\Randy\\ Hultgren"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "137589",
+                    "Candidate": "Jim Walz"
+                },
+                "Republican": {
+                    "Votes": "200508",
+                    "Candidate": "Randy Hultgren"
                 }
             }
         },
         "15": {
-            "demo": {
+            "demographic": {
                 "Total": "691196",
                 "White": "639755",
                 "Black or African American": "31004",
@@ -343,23 +499,29 @@
                 "American Indian and Alaska Native": "1228",
                 "Some Other Race": "2998"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "181294",
                     "Candidate": "John M. Shimkus"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "74309",
                     "Candidate": "Kevin Gaither"
                 },
-                "others": {
+                "Others": {
                     "Votes": "5",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "274554",
+                    "Candidate": "John Shimkus"
                 }
             }
         },
         "16": {
-            "demo": {
+            "demographic": {
                 "Total": "684888",
                 "White": "619708",
                 "Black or African American": "25648",
@@ -369,23 +531,33 @@
                 "American Indian and Alaska Native": "1341",
                 "Some Other Race": "11562"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "151254",
                     "Candidate": "Adam Kinzinger"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "104569",
                     "Candidate": "Sara Dady"
                 },
-                "others": {
+                "Others": {
                     "Votes": "2",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "259722",
+                    "Candidate": "Adam Kinzinger"
+                },
+                "Others": {
+                    "Votes": "131",
                     "Candidate": ""
                 }
             }
         },
         "17": {
-            "demo": {
+            "demographic": {
                 "Total": "679926",
                 "White": "553346",
                 "Black or African American": "80141",
@@ -395,19 +567,29 @@
                 "American Indian and Alaska Native": "1776",
                 "Some Other Race": "11838"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "142659",
                     "Candidate": "Cheri Bustos"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "87090",
                     "Candidate": "William W. \\Bill\\ Fawell"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "113943",
+                    "Candidate": "Patrick Harlan"
+                },
+                "Democratic": {
+                    "Votes": "173125",
+                    "Candidate": "Cheri Bustos"
                 }
             }
         },
         "18": {
-            "demo": {
+            "demographic": {
                 "Total": "700276",
                 "White": "628155",
                 "Black or African American": "29816",
@@ -417,21 +599,35 @@
                 "American Indian and Alaska Native": "1320",
                 "Some Other Race": "5299"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "195927",
                     "Candidate": "Darin Lahood"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "95486",
                     "Candidate": "Junius Rodriguez"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "250506",
+                    "Candidate": "Darin LaHood"
+                },
+                "Democratic": {
+                    "Votes": "96770",
+                    "Candidate": "Junius Rodriguez"
+                },
+                "Others": {
+                    "Votes": "7",
+                    "Candidate": ""
                 }
             }
         }
     },
     "Ohio": {
         "1": {
-            "demo": {
+            "demographic": {
                 "Total": "740979",
                 "White": "528785",
                 "Black or African American": "153148",
@@ -441,23 +637,37 @@
                 "American Indian and Alaska Native": "1049",
                 "Some Other Race": "6680"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "154409",
                     "Candidate": "Steve Chabot"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "141118",
                     "Candidate": "Aftab Pureval"
                 },
-                "others": {
+                "Others": {
                     "Votes": "5344",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "210014",
+                    "Candidate": "Steve Chabot"
+                },
+                "Democratic": {
+                    "Votes": "144644",
+                    "Candidate": "Michele Young"
+                },
+                "Others": {
+                    "Votes": "130",
                     "Candidate": ""
                 }
             }
         },
         "2": {
-            "demo": {
+            "demographic": {
                 "Total": "734712",
                 "White": "626756",
                 "Black or African American": "71218",
@@ -467,23 +677,37 @@
                 "American Indian and Alaska Native": "1183",
                 "Some Other Race": "2967"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "119333",
                     "Candidate": "Jill Schiller"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "166714",
                     "Candidate": "Brad Wenstrup"
                 },
-                "others": {
+                "Others": {
                     "Votes": "3614",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "221193",
+                    "Candidate": "Brad R. Wenstrup"
+                },
+                "Democratic": {
+                    "Votes": "111694",
+                    "Candidate": "William R. Smith"
+                },
+                "Others": {
+                    "Votes": "7392",
                     "Candidate": ""
                 }
             }
         },
         "3": {
-            "demo": {
+            "demographic": {
                 "Total": "812264",
                 "White": "435291",
                 "Black or African American": "276374",
@@ -493,23 +717,33 @@
                 "American Indian and Alaska Native": "2310",
                 "Some Other Race": "21435"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "181575",
                     "Candidate": "Joyce Beatty"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "65040",
                     "Candidate": "Jim Burgess"
                 },
-                "others": {
+                "Others": {
                     "Votes": "62",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "199791",
+                    "Candidate": "Joyce Beatty"
+                },
+                "Republican": {
+                    "Votes": "91560",
+                    "Candidate": "John Adams"
                 }
             }
         },
         "4": {
-            "demo": {
+            "demographic": {
                 "Total": "707219",
                 "White": "637111",
                 "Black or African American": "35888",
@@ -519,19 +753,29 @@
                 "American Indian and Alaska Native": "3610",
                 "Some Other Race": "4479"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "89412",
                     "Candidate": "Janet Garrett"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "167993",
                     "Candidate": "Jim Jordan"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "210227",
+                    "Candidate": "Jim Jordan"
+                },
+                "Democratic": {
+                    "Votes": "98981",
+                    "Candidate": "Janet Garrett"
                 }
             }
         },
         "5": {
-            "demo": {
+            "demographic": {
                 "Total": "717088",
                 "White": "654248",
                 "Black or African American": "18872",
@@ -541,23 +785,33 @@
                 "American Indian and Alaska Native": "1250",
                 "Some Other Race": "10590"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "99655",
                     "Candidate": "J. Michael Galbraith"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "176569",
                     "Candidate": "Bob Latta"
                 },
-                "others": {
+                "Others": {
                     "Votes": "7393",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "100392",
+                    "Candidate": "James Neu Jr."
+                },
+                "Republican": {
+                    "Votes": "244599",
+                    "Candidate": "Robert E. Latta"
                 }
             }
         },
         "6": {
-            "demo": {
+            "demographic": {
                 "Total": "694694",
                 "White": "658447",
                 "Black or African American": "15368",
@@ -567,19 +821,29 @@
                 "American Indian and Alaska Native": "1304",
                 "Some Other Race": "2074"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "172774",
                     "Candidate": "Bill Johnson"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "76716",
                     "Candidate": "Shawna Roberts"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "88780",
+                    "Candidate": "Michael L. Lorentz"
+                },
+                "Republican": {
+                    "Votes": "213975",
+                    "Candidate": "Bill Johnson"
                 }
             }
         },
         "7": {
-            "demo": {
+            "demographic": {
                 "Total": "734091",
                 "White": "677610",
                 "Black or African American": "28285",
@@ -589,19 +853,33 @@
                 "American Indian and Alaska Native": "1645",
                 "Some Other Race": "3780"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "153117",
                     "Candidate": "Bob Gibbs"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "107536",
                     "Candidate": "Ken Harbaugh"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "89638",
+                    "Candidate": "Roy Rich"
+                },
+                "Republican": {
+                    "Votes": "198221",
+                    "Candidate": "Bob Gibbs"
+                },
+                "Others": {
+                    "Votes": "21694",
+                    "Candidate": ""
                 }
             }
         },
         "8": {
-            "demo": {
+            "demographic": {
                 "Total": "731637",
                 "White": "640979",
                 "Black or African American": "44808",
@@ -611,19 +889,33 @@
                 "American Indian and Alaska Native": "1248",
                 "Some Other Race": "6862"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "173852",
                     "Candidate": "Warren Davidson"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "87281",
                     "Candidate": "Vanessa Enoch"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "223833",
+                    "Candidate": "Warren Davidson"
+                },
+                "Democratic": {
+                    "Votes": "87794",
+                    "Candidate": "Steven Fought"
+                },
+                "Others": {
+                    "Votes": "13879",
+                    "Candidate": ""
                 }
             }
         },
         "9": {
-            "demo": {
+            "demographic": {
                 "Total": "716235",
                 "White": "533397",
                 "Black or African American": "112356",
@@ -633,23 +925,37 @@
                 "American Indian and Alaska Native": "3161",
                 "Some Other Race": "19485"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "157219",
                     "Candidate": "Marcy Kaptur"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "74670",
                     "Candidate": "Steven W. Kraus"
                 },
-                "others": {
+                "Others": {
                     "Votes": "48",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "193966",
+                    "Candidate": "Marcy Kaptur"
+                },
+                "Republican": {
+                    "Votes": "88427",
+                    "Candidate": "Donald P. Larson"
+                },
+                "Others": {
+                    "Votes": "5",
                     "Candidate": ""
                 }
             }
         },
         "10": {
-            "demo": {
+            "demographic": {
                 "Total": "725301",
                 "White": "553451",
                 "Black or African American": "121710",
@@ -659,23 +965,37 @@
                 "American Indian and Alaska Native": "1847",
                 "Some Other Race": "5073"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "118785",
                     "Candidate": "Theresa A. Gasper"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "157554",
                     "Candidate": "Mike Turner"
                 },
-                "others": {
+                "Others": {
                     "Votes": "5387",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "215724",
+                    "Candidate": "Michael R. Turner"
+                },
+                "Democratic": {
+                    "Votes": "109981",
+                    "Candidate": "Robert Klepinger"
+                },
+                "Others": {
+                    "Votes": "10897",
                     "Candidate": ""
                 }
             }
         },
         "11": {
-            "demo": {
+            "demographic": {
                 "Total": "678001",
                 "White": "269493",
                 "Black or African American": "355642",
@@ -685,23 +1005,33 @@
                 "American Indian and Alaska Native": "1791",
                 "Some Other Race": "8207"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "206138",
                     "Candidate": "Marcia L. Fudge"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "44486",
                     "Candidate": "Beverly A. Goldstein"
                 },
-                "others": {
+                "Others": {
                     "Votes": "36",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "59769",
+                    "Candidate": "Beverly A. Goldstein"
+                },
+                "Democratic": {
+                    "Votes": "242917",
+                    "Candidate": "Marcia L. Fudge"
                 }
             }
         },
         "12": {
-            "demo": {
+            "demographic": {
                 "Total": "789634",
                 "White": "683722",
                 "Black or African American": "36840",
@@ -711,23 +1041,37 @@
                 "American Indian and Alaska Native": "1594",
                 "Some Other Race": "3733"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "175677",
                     "Candidate": "Troy Balderson"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "161251",
                     "Candidate": "Danny O'Connor"
                 },
-                "others": {
+                "Others": {
                     "Votes": "4719",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "251266",
+                    "Candidate": "Patrick J. Tiberi"
+                },
+                "Democratic": {
+                    "Votes": "112638",
+                    "Candidate": "Ed Albertson"
+                },
+                "Others": {
+                    "Votes": "13630",
                     "Candidate": ""
                 }
             }
         },
         "13": {
-            "demo": {
+            "demographic": {
                 "Total": "707603",
                 "White": "580914",
                 "Black or African American": "82532",
@@ -737,19 +1081,33 @@
                 "American Indian and Alaska Native": "977",
                 "Some Other Race": "5696"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "98047",
                     "Candidate": "Chris DePizzo"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "153323",
                     "Candidate": "Tim Ryan"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "208610",
+                    "Candidate": "Tim Ryan"
+                },
+                "Republican": {
+                    "Votes": "99377",
+                    "Candidate": "Richard A. Morckel"
+                },
+                "Others": {
+                    "Votes": "17",
+                    "Candidate": ""
                 }
             }
         },
         "14": {
-            "demo": {
+            "demographic": {
                 "Total": "720551",
                 "White": "649331",
                 "Black or African American": "35441",
@@ -759,19 +1117,33 @@
                 "American Indian and Alaska Native": "569",
                 "Some Other Race": "4629"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "169809",
                     "Candidate": "David P. Joyce"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "137549",
                     "Candidate": "Betsy Rader"
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "219191",
+                    "Candidate": "David P. Joyce"
+                },
+                "Democratic": {
+                    "Votes": "130907",
+                    "Candidate": "Michael Wager"
+                },
+                "Others": {
+                    "Votes": "171",
+                    "Candidate": ""
                 }
             }
         },
         "15": {
-            "demo": {
+            "demographic": {
                 "Total": "759569",
                 "White": "679312",
                 "Black or African American": "36182",
@@ -781,23 +1153,33 @@
                 "American Indian and Alaska Native": "1063",
                 "Some Other Race": "2709"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "116112",
                     "Candidate": "Rick Neal"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "170593",
                     "Candidate": "Steve Stivers"
                 },
-                "others": {
+                "Others": {
                     "Votes": "5738",
                     "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "113960",
+                    "Candidate": "Scott Wharton"
+                },
+                "Republican": {
+                    "Votes": "222847",
+                    "Candidate": "Steve Stivers"
                 }
             }
         },
         "16": {
-            "demo": {
+            "demographic": {
                 "Total": "719864",
                 "White": "662093",
                 "Black or African American": "21642",
@@ -807,21 +1189,31 @@
                 "American Indian and Alaska Native": "1071",
                 "Some Other Race": "3737"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "170029",
                     "Candidate": "Anthony Gonzalez"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "129681",
                     "Candidate": "Susan Moran Palmer"
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "119830",
+                    "Candidate": "Keith Mundy"
+                },
+                "Republican": {
+                    "Votes": "225794",
+                    "Candidate": "James B. Renacci"
                 }
             }
         }
     },
     "Oregon": {
         "1": {
-            "demo": {
+            "demographic": {
                 "Total": "858910",
                 "White": "682996",
                 "Black or African American": "18791",
@@ -831,23 +1223,37 @@
                 "American Indian and Alaska Native": "5374",
                 "Some Other Race": "33889"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "231198",
                     "Candidate": "Suzanne Bonamici"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "116446",
                     "Candidate": "John Verbeek"
                 },
-                "others": {
+                "Others": {
                     "Votes": "15605",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "225391",
+                    "Candidate": "Suzanne Bonamici"
+                },
+                "Republican": {
+                    "Votes": "139756",
+                    "Candidate": "Brian J. Heinrich"
+                },
+                "Others": {
+                    "Votes": "12948",
                     "Candidate": ""
                 }
             }
         },
         "2": {
-            "demo": {
+            "demographic": {
                 "Total": "831343",
                 "White": "752017",
                 "Black or African American": "5956",
@@ -857,23 +1263,37 @@
                 "American Indian and Alaska Native": "15829",
                 "Some Other Race": "15377"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "207597",
                     "Candidate": "Greg Walden"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "145298",
                     "Candidate": "Jamie McLeod-Skinner"
                 },
-                "others": {
+                "Others": {
                     "Votes": "15814",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "272952",
+                    "Candidate": "Greg Walden"
+                },
+                "Democratic": {
+                    "Votes": "106640",
+                    "Candidate": "James \"\"Jim\"\" Crary"
+                },
+                "Others": {
+                    "Votes": "1147",
                     "Candidate": ""
                 }
             }
         },
         "3": {
-            "demo": {
+            "demographic": {
                 "Total": "841456",
                 "White": "665732",
                 "Black or African American": "42053",
@@ -883,23 +1303,33 @@
                 "American Indian and Alaska Native": "7899",
                 "Some Other Race": "12169"
             },
-            "vote": {
-                "democratic": {
+            "vote2018": {
+                "Democratic": {
                     "Votes": "279019",
                     "Candidate": "Earl Blumenauer"
                 },
-                "republican": {
+                "Republican": {
                     "Votes": "76187",
                     "Candidate": "Tom Harrison"
                 },
-                "others": {
+                "Others": {
                     "Votes": "29120",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "274687",
+                    "Candidate": "Earl Blumenauer"
+                },
+                "Others": {
+                    "Votes": "107668",
                     "Candidate": ""
                 }
             }
         },
         "4": {
-            "demo": {
+            "demographic": {
                 "Total": "814998",
                 "White": "708868",
                 "Black or African American": "5543",
@@ -909,23 +1339,37 @@
                 "American Indian and Alaska Native": "10607",
                 "Some Other Race": "24402"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "152414",
                     "Candidate": "Art Robinson"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "208710",
                     "Candidate": "Peter DeFazio"
                 },
-                "others": {
+                "Others": {
                     "Votes": "11769",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Republican": {
+                    "Votes": "157743",
+                    "Candidate": "Art Robinson"
+                },
+                "Democratic": {
+                    "Votes": "220628",
+                    "Candidate": "Peter A. DeFazio"
+                },
+                "Others": {
+                    "Votes": "19197",
                     "Candidate": ""
                 }
             }
         },
         "5": {
-            "demo": {
+            "demographic": {
                 "Total": "844006",
                 "White": "705370",
                 "Black or African American": "9703",
@@ -935,17 +1379,31 @@
                 "American Indian and Alaska Native": "9342",
                 "Some Other Race": "52136"
             },
-            "vote": {
-                "republican": {
+            "vote2018": {
+                "Republican": {
                     "Votes": "149887",
                     "Candidate": "Mark Callahan"
                 },
-                "democratic": {
+                "Democratic": {
                     "Votes": "197187",
                     "Candidate": "Kurt Schrader"
                 },
-                "others": {
+                "Others": {
                     "Votes": "11395",
+                    "Candidate": ""
+                }
+            },
+            "vote2016": {
+                "Democratic": {
+                    "Votes": "199505",
+                    "Candidate": "Kurt Schrader"
+                },
+                "Republican": {
+                    "Votes": "160443",
+                    "Candidate": "Colm Willis"
+                },
+                "Others": {
+                    "Votes": "13160",
                     "Candidate": ""
                 }
             }

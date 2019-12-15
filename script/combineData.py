@@ -27,8 +27,10 @@ for state in ['IL','OH','OR']:
     inp = open(rawFile,'r')
     geojson = json.load(inp)
     for s in geojson['features']:
-        s['properties']['demographic'] = states[state_dic[state]]['demo']
-        s['properties']['vote'] = states[state_dic[state]]['vote']
+        s['properties']['demographic'] = states[state_dic[state]]['demographic']
+        s['properties']['vote_CONGRESSIONAL_2016'] = states[state_dic[state]]['vote2016']
+        s['properties']['vote_CONGRESSIONAL_2018'] = states[state_dic[state]]['vote2018']
+        s['properties']['vote_PRESIDENTIAL_2016'] = states[state_dic[state]]['votep2016']
     outFile = '../processedData/'+state+'_state.json'
     out = open(outFile,'w')
-    json.dump(geojson,out,indent=4)
+    json.dump(geojson,out)

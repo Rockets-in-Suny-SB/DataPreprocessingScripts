@@ -1,6 +1,6 @@
 {
     "Illinois": {
-        "demo": {
+        "demographic": {
             "Total": 12741080,
             "White": 9135145,
             "Black or African American": 1793079,
@@ -10,14 +10,19 @@
             "American Indian and Alaska Native": 35846,
             "Some Other Race": 712778
         },
-        "vote": {
-            "democratic": 2757540,
-            "republican": 1754449,
-            "others": 27715
+        "vote2016": {
+            "Democratic": 2810536,
+            "Republican": 2397436,
+            "Others": 33795
+        },
+        "vote2018": {
+            "Democratic": 2757540,
+            "Republican": 1754449,
+            "Others": 27715
         }
     },
     "Ohio": {
-        "demo": {
+        "demographic": {
             "Total": 11689442,
             "White": 9470940,
             "Black or African American": 1446306,
@@ -27,14 +32,19 @@
             "American Indian and Alaska Native": 25672,
             "Some Other Race": 112136
         },
-        "vote": {
-            "republican": 2291333,
-            "democratic": 2082684,
-            "others": 32341
+        "vote2016": {
+            "Republican": 2996017,
+            "Democratic": 2154523,
+            "Others": 67815
+        },
+        "vote2018": {
+            "Republican": 2291333,
+            "Democratic": 2082684,
+            "Others": 32341
         }
     },
     "Oregon": {
-        "demo": {
+        "demographic": {
             "Total": 4190713,
             "White": 3514983,
             "Black or African American": 82046,
@@ -44,10 +54,15 @@
             "American Indian and Alaska Native": 49051,
             "Some Other Race": 137973
         },
-        "vote": {
-            "democratic": 1061412,
-            "republican": 702531,
-            "others": 83703
+        "vote2016": {
+            "Democratic": 1026851,
+            "Republican": 730894,
+            "Others": 154120
+        },
+        "vote2018": {
+            "Democratic": 1061412,
+            "Republican": 702531,
+            "Others": 83703
         }
     }
 }

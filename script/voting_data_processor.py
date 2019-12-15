@@ -2,14 +2,14 @@ import csv
 import pandas as pd
 
 def getStates(inputFile,outputFile,state):
-    with open(inputFile,'r') as input, open(outputFile,'w') as out:
-        writer = csv.writer(out)
-        reader = csv.reader(input)
+        writer = csv.writer(open(outputFile,'w'))
+        reader = csv.reader(open(inputFile,'r'))
         header = next(reader,None)
         writer.writerow(header)
         #Get data of target states
         for row in reader:
-            if row[1] in state:
+            print(row)
+            if row[1] in state and row[0] == '2016':
                 row[7] = row[7].replace('District ','')
                 writer.writerow(row)
         print('Get data of target states done')
@@ -43,7 +43,7 @@ def votesCombination(inputFile,outputFile,state):
                 other_party_dic[row[0]][row[1]] += int(row[3])
             else:
                 if row[2] == 'democrat':
-                    row[2] = 'democratic'
+                    row[2] = 'Democratic'
                 writer.writerow(row)
         for state in other_party_dic.keys():
             for dist in other_party_dic[state].keys():
@@ -51,10 +51,10 @@ def votesCombination(inputFile,outputFile,state):
     print('Remove other parties done')
     return
 
-RAWDATA = '../data/district_overall_2018.csv'
-STATEDATA = '../data/congressional_districts_voting.csv'
+RAWDATA = '../data/1976-2018-house.csv'
+STATEDATA = '../data/2016_congressional_districts_voting.csv'
 STATE = ['Oregon','Ohio','Illinois']
-PROCESSEDDATA = '../processedData/congressional_districts_voting_processed.csv'
+PROCESSEDDATA = '../processedData/2016_congressional_districts_voting_processed.csv'
 
 getStates(RAWDATA,STATEDATA,STATE)
 columnFilter(STATEDATA,STATEDATA)
